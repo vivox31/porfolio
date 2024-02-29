@@ -36,14 +36,14 @@ const Portfolio = () => {
     const items = [
         {
             id:1,
-            project_title:"Front End project",
-            img : "https://images.fineartamerica.com/public/images/overview/overviewLifestyle004.jpg",
+            project_title:"News Monkey",
+            img : "/newsMonkey.png",
             desc : "Lorem  eius inventore voluptas voluptatibus quisquam? Aperiam sapiente quidem itaque nostrum molestiae magni autem. Eligendi temporibus illo delenitiis"
         },
         {
             id:2,
             project_title:"Netflix web app",
-            img : "https://pixels.com/assets/images/rooms/masterBedroom001.jpg",
+            img : "/netflix.png",
             desc : " Modi quae ipsam veritatis necessitatibus eius inventore voluptas voluptatibus quisquam? Aperiam sapiente quidem itaque nostrum molestiae magni autem. Eligendi temporibus illo delenitiis"
         },
         {
