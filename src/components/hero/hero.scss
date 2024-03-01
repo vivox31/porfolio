@@ -20,7 +20,7 @@
         }
         
         img{
-            width: 470px;
+            width: 490px;
             @include mobile{
                 width: 270px;
             }
@@ -48,6 +48,7 @@
             flex-direction: column;
             justify-content: center;
             gap: 40px;
+            margin-top: 5%;
             @include mobile{
                 margin-top: 35px;
                 height: 50%;
